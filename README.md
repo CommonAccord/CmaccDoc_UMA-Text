@@ -5,6 +5,7 @@ In collaboration with the UMA-WG and particularly with work by @xmmgrrl. But uno
 
 UMA is a robust system of User Managed Access - a secure system for persons (people and organizations) to respectfully treat information about other persons.
 
-These materials are presented at http://www.commonaccord.org/index.php?action=list&file=/GH/KantaraInitiative/UMA-Text/.
+These materials are presented at http://www.commonaccord.org/index.php?action=doc&file=/GH/KantaraInitiative/UMA-Text/0.md.
+
 
 For general information about handling legal text as "prose objects," see https://github.com/CommonAccord/Form-Agt/edit/master/README.md.
